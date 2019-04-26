@@ -13,7 +13,7 @@ namespace Formlar
         public string HavaalaniAdi { get; set; }
 
         public virtual List<Sefer> Sefers { get; set; }
-        public virtual List<Sefer> Sefers { get; set; }
+        
         
 
     }
